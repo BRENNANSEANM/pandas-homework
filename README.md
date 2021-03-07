@@ -1,2 +1,2 @@
-# pandas-homeworkd
+# pandas-homework
 Homework Stock Research/Analysis
